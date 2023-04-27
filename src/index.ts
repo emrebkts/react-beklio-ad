@@ -1,0 +1,1 @@
+export { BeklioAd } from './BeklioAd';
